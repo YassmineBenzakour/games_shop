@@ -1,6 +1,6 @@
-import 'package:app1/pages/home/widgets/newest.dart';
-import 'package:app1/pages/home/widgets/popular.dart';
 import 'package:flutter/material.dart';
+import 'package:game_shop/pages/home/widgets/newest.dart';
+import 'package:game_shop/pages/home/widgets/popular.dart';
 
 
 class CategorySection extends StatelessWidget {

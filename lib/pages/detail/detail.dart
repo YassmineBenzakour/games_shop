@@ -1,7 +1,6 @@
-import 'package:app1/models/game.dart';
-import 'package:app1/pages/detail/widgets/detail_sliver.dart';
-import 'package:app1/pages/detail/widgets/info.dart';
 import 'package:flutter/material.dart';
+import 'package:game_shop/pages/detail/widgets/detail_sliver.dart';
+import 'package:game_shop/pages/detail/widgets/info.dart';
 
 import '../../models/game.dart';
 

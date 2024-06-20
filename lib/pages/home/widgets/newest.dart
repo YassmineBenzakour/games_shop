@@ -1,5 +1,6 @@
-import 'package:app1/models/game.dart';
+
 import 'package:flutter/material.dart';
+import 'package:game_shop/models/game.dart';
 
 class NewestGame extends StatelessWidget {
   NewestGame({super.key});
